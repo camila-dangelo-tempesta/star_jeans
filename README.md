@@ -22,7 +22,11 @@ Thus, the two partners hired a Data Science consultancy to answer the following 
 
 # 2. Business Assumptions.
 
-The main competitors of the Start Jeans company are the American companies H&M and Macys.
+| Mainly competitors | Target Product | Rules                                    | 
+|:-------------------|:---------------|:-----------------------------------------|
+| H & M              | Men's Jeans    |                                          | 
+| Macys              | Men's Jeans    |                                          |
+
 
 # 3. Solution Strategy
 SAPE method
