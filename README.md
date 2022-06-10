@@ -39,7 +39,7 @@ SAPE method
 
 **Step 03. Data Filtering:** Filter rows and select columns that do not contain information for modeling or that do not match the scope of the business.
 
-- Webscraping from the H&M website.
+- Webscraping from the H&M website (BeautifulSoup)
 - Data cleaning and organization.
 - Inserting the data into the database.
 - Query data with SQL.
