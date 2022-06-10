@@ -33,9 +33,16 @@ SAPE method
 
 **Step 01. Data Description:** My goal is to use statistics metrics to identify data outside the scope of business.
 
+- Calculate the average price by category.
+
 **Step 02. Feature Engineering:** Derive new attributes based on the original variables to better describe the phenomenon that will be modeled.
 
 **Step 03. Data Filtering:** Filter rows and select columns that do not contain information for modeling or that do not match the scope of the business.
+
+- Webscraping from the H&M website.
+- Data cleaning and organization.
+- Inserting the data into the database.
+- Query data with SQL.
 
 **Step 04. Exploratory Data Analysis:** Explore the data to find insights and better understand the impact of variables on model learning.
 
