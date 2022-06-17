@@ -69,7 +69,8 @@ The motivation lies in knowing the behavior of the prices of men's jeans from th
   - Line filtering
   - Selection of columns
   
-- [ ] **Step 04:** Exploratory Data Analysis:Explore the data to find insights and better understand the impact of variables on model learning.
+- [x] **Step 04:** Exploratory Data Analysis:Explore the data to find insights and better understand the impact of variables on model learning.
+  - Univariate Analysis
 
 ... in process
 
