@@ -45,7 +45,7 @@ The motivation lies in knowing the behavior of the prices of men's jeans from th
 - [x] **Step 00:** **Data Collect**:  
   - Webscraping from the H&M website (BeautifulSoup)
   - Inserting the data into the database.
-  - Query data with SQLCheck NA
+  - Query data with SQL
 
 - [x] **Step 01:** **Data Description**:  My goal is to use statistics metrics to identify data outside the scope of business.
   - Data Dimension
